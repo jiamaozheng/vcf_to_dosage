@@ -40,6 +40,6 @@ varID	TCGA-OR-A5MM-9A-01D-A99K-99
 ```
 
 ## References
-https://www.biostars.org/p/139362/
-https://samtools.github.io/bcftools/bcftools.html
-https://www.biostars.org/p/270381/
+- https://www.biostars.org/p/139362/
+- https://samtools.github.io/bcftools/bcftools.html
+- https://www.biostars.org/p/270381/
