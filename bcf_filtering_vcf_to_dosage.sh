@@ -18,6 +18,8 @@ module load gcc/4.9.4
 module load bcftools/1.4.0
 ########################################################################################################################
 
+# Adapted from https://github.com/hakyimlab/Scripts/tree/master/vcf
+
 for file in $1*; do
 
 	I=$file
